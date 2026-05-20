@@ -304,20 +304,20 @@ This class is completely dissimilar in the semantic meaning in cityscapes and sy
 **Samples 1-2:**
 | CS Image 1 | CS Image 2 | SYNTHIA Image 1 | SYNTHIA Image 2 |
 |-----------|-----------|-----------|----------|
-| ![cs_tl_1](assets/cityscapes_class_samples/traffic%20light/sample_1_img.png) | ![cs_tl_2](assets/cityscapes_class_samples/traffic%20light/sample_2_img.png) | ![synthia_tl_1](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_1_img.png) | ![synthia_tl_2](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_6_img.png) |
+| ![cs_tl_1](assets/cityscapes_class_samples/traffic_light/sample_1_img.png) | ![cs_tl_2](assets/cityscapes_class_samples/traffic_light/sample_2_img.png) | ![synthia_tl_1](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_1_img.png) | ![synthia_tl_2](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_6_img.png) |
 
 | CS Label 1 | CS Label 2 | SYNTHIA Label 1 | SYNTHIA Label 2 |
 |-----------|-----------|-----------|----------|
-| ![cs_tl_1_label](assets/cityscapes_class_samples/traffic%20light/sample_1_label.png) | ![cs_tl_2_label](assets/cityscapes_class_samples/traffic%20light/sample_2_label.png) | ![synthia_tl_1_label](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_1_label.png) | ![synthia_tl_2_label](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_6_label.png) |
+| ![cs_tl_1_label](assets/cityscapes_class_samples/traffic_light/sample_1_label.png) | ![cs_tl_2_label](assets/cityscapes_class_samples/traffic_light/sample_2_label.png) | ![synthia_tl_1_label](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_1_label.png) | ![synthia_tl_2_label](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_6_label.png) |
 
 <!-- **Samples 3-4:**
 | CS Image 3 | CS Image 4 | SYNTHIA Image 3 | SYNTHIA Image 4 |
 |-----------|-----------|-----------|----------|
-| ![cs_tl_3](assets/cityscapes_class_samples/traffic%20light/sample_3_img.png) | ![cs_tl_4](assets/cityscapes_class_samples/traffic%20light/sample_4_img.png) | ![synthia_tl_3](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_3_img.png) | ![synthia_tl_4](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_4_img.png) |
+| ![cs_tl_3](assets/cityscapes_class_samples/traffic_light/sample_3_img.png) | ![cs_tl_4](assets/cityscapes_class_samples/traffic_light/sample_4_img.png) | ![synthia_tl_3](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_3_img.png) | ![synthia_tl_4](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_4_img.png) |
 
 | CS Label 3 | CS Label 4 | SYNTHIA Label 3 | SYNTHIA Label 4 |
 |-----------|-----------|-----------|----------|
-| ![cs_tl_3_label](assets/cityscapes_class_samples/traffic%20light/sample_3_label.png) | ![cs_tl_4_label](assets/cityscapes_class_samples/traffic%20light/sample_4_label.png) | ![synthia_tl_3_label](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_3_label.png) | ![synthia_tl_4_label](assets/synthia_subset_500_class_samples/traffic%20light/synthia_sample_4_label.png) | -->
+| ![cs_tl_3_label](assets/cityscapes_class_samples/traffic_light/sample_3_label.png) | ![cs_tl_4_label](assets/cityscapes_class_samples/traffic_light/sample_4_label.png) | ![synthia_tl_3_label](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_3_label.png) | ![synthia_tl_4_label](assets/synthia_subset_500_class_samples/traffic_light/synthia_sample_4_label.png) | -->
 
 ### 8. Traffic Sign
 | Metric | Cityscapes | SYNTHIA |
@@ -335,20 +335,20 @@ This class is completely dissimilar in the semantic meaning in cityscapes and sy
 **Samples 1-2:**
 | CS Image 1 | CS Image 2 | SYNTHIA Image 1 | SYNTHIA Image 2 |
 |-----------|-----------|-----------|----------|
-| ![cs_ts_1](assets/cityscapes_class_samples/traffic%20sign/sample_1_img.png) | ![cs_ts_2](assets/cityscapes_class_samples/traffic%20sign/sample_2_img.png) | ![synthia_ts_1](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_1_img.png) | ![synthia_ts_2](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_2_img.png) |
+| ![cs_ts_1](assets/cityscapes_class_samples/traffic_sign/sample_1_img.png) | ![cs_ts_2](assets/cityscapes_class_samples/traffic_sign/sample_2_img.png) | ![synthia_ts_1](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_1_img.png) | ![synthia_ts_2](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_2_img.png) |
 
 | CS Label 1 | CS Label 2 | SYNTHIA Label 1 | SYNTHIA Label 2 |
 |-----------|-----------|-----------|----------|
-| ![cs_ts_1_label](assets/cityscapes_class_samples/traffic%20sign/sample_1_label.png) | ![cs_ts_2_label](assets/cityscapes_class_samples/traffic%20sign/sample_2_label.png) | ![synthia_ts_1_label](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_1_label.png) | ![synthia_ts_2_label](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_2_label.png) |
+| ![cs_ts_1_label](assets/cityscapes_class_samples/traffic_sign/sample_1_label.png) | ![cs_ts_2_label](assets/cityscapes_class_samples/traffic_sign/sample_2_label.png) | ![synthia_ts_1_label](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_1_label.png) | ![synthia_ts_2_label](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_2_label.png) |
 
 <!-- **Samples 3-4:**
 | CS Image 3 | CS Image 4 | SYNTHIA Image 3 | SYNTHIA Image 4 |
 |-----------|-----------|-----------|----------|
-| ![cs_ts_3](assets/cityscapes_class_samples/traffic%20sign/sample_3_img.png) | ![cs_ts_4](assets/cityscapes_class_samples/traffic%20sign/sample_4_img.png) | ![synthia_ts_3](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_3_img.png) | ![synthia_ts_4](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_4_img.png) |
+| ![cs_ts_3](assets/cityscapes_class_samples/traffic_sign/sample_3_img.png) | ![cs_ts_4](assets/cityscapes_class_samples/traffic_sign/sample_4_img.png) | ![synthia_ts_3](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_3_img.png) | ![synthia_ts_4](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_4_img.png) |
 
 | CS Label 3 | CS Label 4 | SYNTHIA Label 3 | SYNTHIA Label 4 |
 |-----------|-----------|-----------|----------|
-| ![cs_ts_3_label](assets/cityscapes_class_samples/traffic%20sign/sample_3_label.png) | ![cs_ts_4_label](assets/cityscapes_class_samples/traffic%20sign/sample_4_label.png) | ![synthia_ts_3_label](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_3_label.png) | ![synthia_ts_4_label](assets/synthia_subset_500_class_samples/traffic%20sign/synthia_sample_4_label.png) | -->
+| ![cs_ts_3_label](assets/cityscapes_class_samples/traffic_sign/sample_3_label.png) | ![cs_ts_4_label](assets/cityscapes_class_samples/traffic_sign/sample_4_label.png) | ![synthia_ts_3_label](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_3_label.png) | ![synthia_ts_4_label](assets/synthia_subset_500_class_samples/traffic_sign/synthia_sample_4_label.png) | -->
 
 ### 9. Vegetation
 | Metric | Cityscapes | SYNTHIA |
